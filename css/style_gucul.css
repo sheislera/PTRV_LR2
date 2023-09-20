@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(105, 60, 105);
+    color: rgb(167, 167, 167);
+    font-size: x-large;
+}
+
+a {
+    color: rgb(255, 149, 73);
+}
+
+span {
+    color: rgb(51, 197, 51);
+}
+
+.img_left {
+    float: left;
+    width: 36%;
+}
+
+.img_right {
+    float: right;
+}
+
+.p_blue_underline {
+    color: rgb(0, 0, 76);
+    text-decoration: underline;
+}
+
+.p_bold {
+    font-weight: 600;
+}
